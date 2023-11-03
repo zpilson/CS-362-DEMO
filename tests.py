@@ -3,7 +3,6 @@ import random
 import time
 from credit_card_validator import credit_card_validator as ccv
 print("Soup")
-print("can")
 
 
 class TestCreditCardValidator(unittest.TestCase):
