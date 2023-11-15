@@ -2,7 +2,9 @@ import unittest
 
 
 class TestCase(unittest.TestCase):
-    pass
+
+    def test1(self):
+        pass
 
 
 if __name__ == '__main__':
