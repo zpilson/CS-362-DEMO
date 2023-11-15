@@ -3,9 +3,7 @@ import task
 
 
 class TestCase(unittest.TestCase):
-
-    def test1(self):
-        pass
+    pass
 
 
   if __name__ == '__main__':
